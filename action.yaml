@@ -1,6 +1,4 @@
 name: Run KBase SDK Tests
-author: @jsfillman
-description: 'This Action runs standard tests for apps built using the KBase.us SDK.'
 
 on:
   push:
