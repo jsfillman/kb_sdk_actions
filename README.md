@@ -19,6 +19,7 @@ git commit -m "Adding Actions workflow for KB SDK tests."
 git push 
 # Push to the branch of your pull request, or push to master if preferred.
 git push -u origin master
+```
 4. You're done! Any future commits and pull requests to your repo's `master` branch will trigger the SDK tests to run.
 
 To review your projet's SDK test status and results, see your repo's [Actions tab](https://help.github.com/en/actions/configuring-and-managing-workflows/managing-a-workflow-run#about-workflow-management).
